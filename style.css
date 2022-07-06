@@ -1,0 +1,49 @@
+* {
+	color: rgb(40, 40, 90);
+	font-family: "Helvetica", sans-serif;
+}
+
+body {
+	background-color: rgb(225, 220, 200);
+	width: 640px;
+	margin: auto;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 128px;
+	padding-right: 128px;
+	border: 1px solid rgb(40, 40, 90);
+	border-top-style: none;
+	border-bottom-style: none;
+}
+
+h1, h2 {
+	font-family: "Georgia", serif;
+}
+
+h1 {
+	color: rgb(150, 30, 30);
+	font-style: italic;
+}
+
+h2 {
+	color: rgb(130, 130, 160);
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 16px;
+}
+
+img {
+	width: 640px;
+	height: auto;
+	box-shadow: 10px 10px;
+	border-radius: 2px;
+}
